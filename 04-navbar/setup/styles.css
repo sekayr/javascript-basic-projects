@@ -198,6 +198,7 @@ nav {
 .social-icons {
   display: none;
 }
+/* BY DEFAULT HIDE LINKS */
 .links {
   height: 0;
   overflow: hidden;
